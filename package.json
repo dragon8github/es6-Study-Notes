@@ -1,0 +1,11 @@
+{
+  "name": "es6-study-node",
+  "version": "1.0.0",
+  "description": "1 - 《13-变量解构赋值的用途2.png》\r 提取json数据会非常非常常用",
+  "main": "index.js",
+  "scripts": {
+     "git" : "git add . && git commit -m '日常学习' && git push -u origin master"
+  },
+  "author": "",
+  "license": "ISC"
+}
