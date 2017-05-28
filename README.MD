@@ -32,8 +32,8 @@
 ![](./18-字符串模板过滤HTML.png) 
 # 19-Number整数判断.png
 ![](./19-Number整数判断.png) 
-# 2-安装babel.png
-![](./2-安装babel.png) 
+# 19-Number整数判断.png
+![](./19-Number整数判断.png) 
 # 20-Math整数.png
 ![](./20-Math整数.png) 
 # 21-Math判断一个数到底是负数整数还是0.png
@@ -54,8 +54,8 @@
 ![](./28-函数的length属性.png) 
 # 29-利用函数参数默认值不填则报错.png
 ![](./29-利用函数参数默认值不填则报错.png) 
-# 3-babel基本用法.png
-![](./3-babel基本用法.png) 
+# 29-利用函数参数默认值不填则报错.png
+![](./29-利用函数参数默认值不填则报错.png) 
 # 30-使用rest参数代替arguments.png
 ![](./30-使用rest参数代替arguments.png) 
 # 31-rest参数可以使用数组函数.png
@@ -76,8 +76,8 @@
 ![](./38-用扩展运算符将字符串转化为数组.png) 
 # 39-扩展运算符将类数组转化为数组.png
 ![](./39-扩展运算符将类数组转化为数组.png) 
-# 4-babel基本用法2.png
-![](./4-babel基本用法2.png) 
+# 39-扩展运算符将类数组转化为数组.png
+![](./39-扩展运算符将类数组转化为数组.png) 
 # 40-扩展运算符与map,Set,Generator函数.png
 ![](./40-扩展运算符与map,Set,Generator函数.png) 
 # 41-箭头函数基本用法.png
@@ -108,21 +108,155 @@
 ![](./47-尾调用的优化2.png) 
 # 47-尾调用的优化3.png
 ![](./47-尾调用的优化3.png) 
-# 5-让babel支持更多es6特性.png
-![](./5-让babel支持更多es6特性.png) 
-# 6-关于ecmascript的知识.png
-![](./6-关于ecmascript的知识.png) 
-# 7-关于ecmacescript的知识2.png
-![](./7-关于ecmacescript的知识2.png) 
-# 8-数组解构赋值.png
-![](./8-数组解构赋值.png) 
-# 8-数组解构赋值2.png
-![](./8-数组解构赋值2.png) 
-# 8-数组解构赋值3.png
-![](./8-数组解构赋值3.png) 
-# 8-数组解构赋值4.png
-![](./8-数组解构赋值4.png) 
-# 9-对象的解构赋值1.png
-![](./9-对象的解构赋值1.png) 
-# 9-对象的解构赋值2.png
-![](./9-对象的解构赋值2.png) 
+# 48-表达式作为属性名方法名.png
+![](./48-表达式作为属性名方法名.png) 
+# 49-object-is()代替===.png
+![](./49-object-is()代替===.png) 
+# 49-object-is()代替===.png
+![](./49-object-is()代替===.png) 
+# 50-object-assgin对象合并.png
+![](./50-object-assgin对象合并.png) 
+# 50-object-assgin对象合并2.png
+![](./50-object-assgin对象合并2.png) 
+# 50-object-assgin对象合并3.png
+![](./50-object-assgin对象合并3.png) 
+# 50-object-assgin对象合并4.png
+![](./50-object-assgin对象合并4.png) 
+# 50-object-assgin对象合并5.png
+![](./50-object-assgin对象合并5.png) 
+# 51-object-assgin的用途1.png
+![](./51-object-assgin的用途1.png) 
+# 51-object-assgin的用途2.png
+![](./51-object-assgin的用途2.png) 
+# 51-object-assgin的用途3.png
+![](./51-object-assgin的用途3.png) 
+# 52-属性可枚举.png
+![](./52-属性可枚举.png) 
+# 52-属性可枚举2.png
+![](./52-属性可枚举2.png) 
+# 53-属性的遍历.png
+![](./53-属性的遍历.png) 
+# 54-对象的扩展运算符.png
+![](./54-对象的扩展运算符.png) 
+# 55-Object-getOwnPropertyDescriptor()的使用.png
+![](./55-Object-getOwnPropertyDescriptor()的使用.png) 
+# 55-Object-getOwnPropertyDescriptor()的使用2.png
+![](./55-Object-getOwnPropertyDescriptor()的使用2.png) 
+# 55-Object-getOwnPropertyDescriptor()的使用3.png
+![](./55-Object-getOwnPropertyDescriptor()的使用3.png) 
+# 55-Object-getOwnPropertyDescriptor()的使用4.png
+![](./55-Object-getOwnPropertyDescriptor()的使用4.png) 
+# 56-symbol的使用.png
+![](./56-symbol的使用.png) 
+# 56-symbol的使用2.png
+![](./56-symbol的使用2.png) 
+# 56-symbol的使用3.png
+![](./56-symbol的使用3.png) 
+# 56-symbol的使用4.png
+![](./56-symbol的使用4.png) 
+# 56-symbol的使用5.png
+![](./56-symbol的使用5.png) 
+# 56-symbol的使用6.png
+![](./56-symbol的使用6.png) 
+# 56-symbol的概述.png
+![](./56-symbol的概述.png) 
+# 56-symbol的概述2.png
+![](./56-symbol的概述2.png) 
+# 57-symbol的实例1.png
+![](./57-symbol的实例1.png) 
+# 57-symbol的实例2.png
+![](./57-symbol的实例2.png) 
+# 57-symbol的实例3.png
+![](./57-symbol的实例3.png) 
+# 58-什么是生成器.png
+![](./58-什么是生成器.png) 
+# 58-生成器做了什么.png
+![](./58-生成器做了什么.png) 
+# 58-生成器用不并发.png
+![](./58-生成器用不并发.png) 
+# 58-生成器用不并发.png
+![](./58-生成器用不并发.png) 
+# 64-新集合：Map和Set.png
+![](./64-新集合：Map和Set.png) 
+# 65-Set的特性与数组的差别.png
+![](./65-Set的特性与数组的差别.png) 
+# 66-Set的API.png
+![](./66-Set的API.png) 
+# 67-Map的API.png
+![](./67-Map的API.png) 
+# 68-允许使用变量定义方法名和属性名.png
+![](./68-允许使用变量定义方法名和属性名.png) 
+# 69-获取对象属性描述getOwnPropertyDescriptor与可枚举enumerable.png
+![](./69-获取对象属性描述getOwnPropertyDescriptor与可枚举enumerable.png) 
+# 69-获取对象属性描述getOwnPropertyDescriptor与可枚举enumerable.png
+![](./69-获取对象属性描述getOwnPropertyDescriptor与可枚举enumerable.png) 
+# 70-属性的遍历.png
+![](./70-属性的遍历.png) 
+# 71-setPrototypeOf与__proto__.png
+![](./71-setPrototypeOf与__proto__.png) 
+# 72-getPrototypeO读取一个对象的prototype属性.png
+![](./72-getPrototypeO读取一个对象的prototype属性.png) 
+# 73-Object.keys()与其它推荐遍历方法.png
+![](./73-Object.keys()与其它推荐遍历方法.png) 
+# 74-Object.values().png
+![](./74-Object.values().png) 
+# 75-Object.entries().png
+![](./75-Object.entries().png) 
+# 76-Set的基本用法.png
+![](./76-Set的基本用法.png) 
+# 77-Set的基本用法2.png
+![](./77-Set的基本用法2.png) 
+# 78-Set存储Nan和Object时的注意点.png
+![](./78-Set存储Nan和Object时的注意点.png) 
+# 79-Set的API和基本用法.png
+![](./79-Set的API和基本用法.png) 
+# 79-Set的API和基本用法.png
+![](./79-Set的API和基本用法.png) 
+# 79-Set的API和基本用法.png
+![](./79-Set的API和基本用法.png) 
+# 79-Set的API和基本用法.png
+![](./79-Set的API和基本用法.png) 
+# 79-Set的API和基本用法.png
+![](./79-Set的API和基本用法.png) 
+# 80-Set的遍历.png
+![](./80-Set的遍历.png) 
+# 80-Set的遍历2.png
+![](./80-Set的遍历2.png) 
+# 80-Set的遍历3.png
+![](./80-Set的遍历3.png) 
+# 81-Set在遍历中改变原Set结构.png
+![](./81-Set在遍历中改变原Set结构.png) 
+# 81-Set的交集、并集、差集.png
+![](./81-Set的交集、并集、差集.png) 
+# 82-Map结构的目的和基本用法.png
+![](./82-Map结构的目的和基本用法.png) 
+# 83-Map可接受数组作为初始化参数.png
+![](./83-Map可接受数组作为初始化参数.png) 
+# 83-Map同键名赋值会覆盖.png
+![](./83-Map同键名赋值会覆盖.png) 
+# 84-Map结构与键的内存地址的注意点.png
+![](./84-Map结构与键的内存地址的注意点.png) 
+# 85-Map的一些API和使用示例.png
+![](./85-Map的一些API和使用示例.png) 
+# 85-Map的一些API和使用示例2.png
+![](./85-Map的一些API和使用示例2.png) 
+# 85-Map的一些API和使用示例3.png
+![](./85-Map的一些API和使用示例3.png) 
+# 86-Map的遍历方法.png
+![](./86-Map的遍历方法.png) 
+# 86-Map的遍历方法与示例.png
+![](./86-Map的遍历方法与示例.png) 
+# 86-Map的遍历方法与示例2.png
+![](./86-Map的遍历方法与示例2.png) 
+# 86-Map转数组结构.png
+![](./86-Map转数组结构.png) 
+# 87-Map与JSON的转换.png
+![](./87-Map与JSON的转换.png) 
+# 87-Map与对象与JSON的互相转换.png
+![](./87-Map与对象与JSON的互相转换.png) 
+# 87-Map与数组与对象的互相转换.png
+![](./87-Map与数组与对象的互相转换.png) 
+# 87-Map与数组与对象的互相转换.png
+![](./87-Map与数组与对象的互相转换.png) 
+# 87-Map与数组与对象的互相转换.png
+![](./87-Map与数组与对象的互相转换.png) 

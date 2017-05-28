@@ -47,13 +47,13 @@ const pngDir = cleanNotPng(dir);
 console.log(bubbleSort(pngDir));
 
 
-// for(let img of dir) {
-// 	if(img.includes('png')) {
-// 		str += `# ${img}\r\n![](./${img}) \r\n`;
-// 	}	
-// }
+for(let img of dir) {
+	if(img.includes('png')) {
+		str += `# ${img}\r\n![](./${img}) \r\n`;
+	}	
+}
 
-// fs.writeFile('./README.MD',str,function(err){
-//     if(err) console.error("文件写入失败");
-//     else console.log("文件写入成功");
-// })
+fs.writeFile('./README.MD',str,function(err){
+    if(err) console.error("文件写入失败");
+    else console.log("文件写入成功");
+})
